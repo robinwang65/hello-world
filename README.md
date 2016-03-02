@@ -1,6 +1,6 @@
 # hello-world
 my new repository 
-branch readme-edits
+branch master
 
 
 this is shixin's first github scratch!
